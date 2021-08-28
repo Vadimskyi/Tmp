@@ -3,3 +3,4 @@
 - There are zero dependencies on Unity Engine components. Usage in any kind of c# project should be allowed.
 - For concurrent multithreaded event-system check out this package: TODO
 ![Performance comparison graph](https://user-images.githubusercontent.com/1322279/131223932-38d6fbb5-f8c7-449a-9e71-bf8abbfd1bf8.png)
+![Performance comparison graph GC](https://user-images.githubusercontent.com/1322279/131224705-bcf98c06-3dfa-4d66-a688-ab4a052a1034.png)
